@@ -1,0 +1,2 @@
+﻿Main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function _main
+C:\Users\Spade\source\repos\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 1 unresolved externals
