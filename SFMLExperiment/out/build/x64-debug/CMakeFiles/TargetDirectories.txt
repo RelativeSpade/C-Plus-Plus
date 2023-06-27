@@ -1,0 +1,5 @@
+C:/Users/Spade/source/repos/SFMLExperiment/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Spade/source/repos/SFMLExperiment/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Spade/source/repos/SFMLExperiment/out/build/x64-debug/SFMLExperiment/CMakeFiles/SFMLExperiment.dir
+C:/Users/Spade/source/repos/SFMLExperiment/out/build/x64-debug/SFMLExperiment/CMakeFiles/edit_cache.dir
+C:/Users/Spade/source/repos/SFMLExperiment/out/build/x64-debug/SFMLExperiment/CMakeFiles/rebuild_cache.dir
